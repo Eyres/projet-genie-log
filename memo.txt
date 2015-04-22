@@ -16,4 +16,7 @@ pour faire un commit:
 pour envoyer sur github:
 	git push origin master
 
+pour rafraichir un repository sur sa machine:
+	git pull
+
 j'ai les plein pouvoir
