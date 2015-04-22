@@ -15,3 +15,5 @@ pour faire un commit:
 
 pour envoyer sur github:
 	git push origin master
+
+j'ai les plein pouvoir
