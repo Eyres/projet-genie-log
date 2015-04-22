@@ -1,1 +1,17 @@
 voici des memos :
+
+pour telecharger le repository  sur sa machine :
+	git clone https://.........
+		  ici le lien a coller (bien penser a prendre https et pas ssh)
+
+pour avoir une vision des status, de l'avancement:
+	git status
+
+pour rajouter un fichier a l'index:
+	git add fichier.txt
+
+pour faire un commit:
+	git commit -m "je rajoute un le fichier txt"
+
+pour envoyer sur github:
+	git push origin master
