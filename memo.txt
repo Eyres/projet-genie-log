@@ -16,6 +16,8 @@ pour faire un commit:
 pour envoyer sur github:
 	git push origin master
 
+pour récupérer fichier supprimer
+	git reset --hard origin/master
 pour rafraichir un repository sur sa machine:
 	git pull
 
